@@ -6,12 +6,12 @@
 .childOne{
   width:30%;
   padding:2%;
-  border:1px solid #ddd;
+  border:1px solid green;
   margin:2%
 }
 .childTwo{
   width:70%;
   padding:2%;
-  border:1px solid #ddd;
+  border:1px solid blue;
   margin:2%
 }
