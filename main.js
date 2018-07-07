@@ -22,7 +22,7 @@ function career(careerInfo){
   console.log(careerInfo);
   var careerHeading=document.createElement("h2");
   child2.appendChild(careerHeading);
-  careerHeading.textContent="Career Objective";
+  careerHeading.textContent="Career Objective:";
   var careerHr=document.createElement("hr");
   child2.appendChild(careerHr);
   var ch=document.createElement("p");
@@ -48,6 +48,9 @@ eduTable.innerHTML=tr1+tr2;
  child2.appendChild(eduTable);
 }
 function skills(skil){
+  var skilHeading=document.createElement("h2");
+  skilHeading.textContent="Skills:";
+  child2.appendChild(skilHeading);
   var ul=document.createElement("ul");
   child2.appendChild(ul);
   for(var i=0;i<skil.length;i++){
