@@ -3,5 +3,43 @@
     "name":"SRIJA",
     "label":"Student",
     "email":"padmanabhunisrija@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-Tech(Information Technology)",
+    "institute":"PVP Siddhartha",
+    "data":["2016-2020","100%"]
+  },
+  {
+    "degree":"Intermediate(MPC)",
+  "institute":"Sri Gayatri Junior College",
+  "data":["2014-2016","96.4%"]
+},
+  {
+  "degree":"SSC",
+"institute":"Ravindra Bharathi Public School",
+"data":["2013-2014","98%"]
+}
+],
+"skills":[
+  {
+    "title":"Languages",
+    "content":["C","Python","Java","C++","PHP","R"]
+  },
+  {
+    "title":"DataBase",
+    "content":["SQL","MongoDB","MySql"]
+  },
+  {
+    "title":"Web Technologies",
+    "content":["HTML","CSS","JavaScript","PHP"]
+  },
+  {
+    "title":"Frameworks",
+    "content":["Django","CodeIgniter"]
   }
+  ]
 }
